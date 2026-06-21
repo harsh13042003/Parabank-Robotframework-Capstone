@@ -1,0 +1,10 @@
+{
+  "TC-009": {
+    "account_type": "CHECKING",
+    "expected_message": "Congratulations, your account is now open."
+  },
+  "TC-010": {
+    "account_type": "SAVINGS",
+    "expected_message": "Congratulations, your account is now open."
+  }
+}

@@ -1,0 +1,27 @@
+# Virtual Environment
+.venv/
+
+# Reports
+output/
+allure-report/
+allure-results/
+results/
+
+# Evidence
+evidence/
+
+# Screenshots
+*.png
+*.jpg
+*.jpeg
+
+# Python
+__pycache__/
+*.pyc
+
+# IDE
+.idea/
+.vscode/
+
+# Logs
+*.log

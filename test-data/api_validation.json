@@ -1,0 +1,13 @@
+{
+  "TC-024": { "status_code": 200, "expected_keys": ["id", "customerId", "type", "balance"] },
+  "TC-025": { "status_code": 200 },
+  "TC-026": { "expected_type": "CHECKING" },
+  "TC-027": { "expected_keys": ["id", "customerId", "type", "balance"] },
+  "TC-028": { "status_code": 200 },
+  "TC-029": { "expected_status": 200 },
+  "TC-030": { "max_time_seconds": 5 },
+  "TC-034": {
+    "expected_status": 200,
+    "min_accounts_count": 1
+  }
+}

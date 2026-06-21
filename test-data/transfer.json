@@ -1,0 +1,11 @@
+{
+  "TC-013": { "amount": "100", "expected": "Transfer Complete!" },
+  "TC-014": { "amount": "99999999" },
+  "TC-015": { "expected_error": "id=amount.errors" },
+  "TC-016": { "amount": "100", "expected": "Transfer Complete!" },
+  "TC-017": { "amount": "100", "expected": "Transfer Complete!" },
+  "TC-018": { "amount": "100", "expected": "Transfer Complete!" },
+  "TC-019": { "amount": "100", "expected": "Transfer Complete!" },
+  "TC-035": {"transfer_amount": "100", "success_msg": "Transfer Complete!", "status_check": "has been transferred"}
+}
+

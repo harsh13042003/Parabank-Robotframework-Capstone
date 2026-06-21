@@ -1,0 +1,28 @@
+{
+  "TC-005": {
+    "fname": "Test",
+    "lname": "User",
+    "street": "JECRC",
+    "city": "Jaipur",
+    "state": "RJ",
+    "zip": "411057",
+    "phone": "8888888888",
+    "password": "Login@123",
+    "expected": "Accounts Overview"
+  },
+  "TC-006": {
+    "username": "invalid",
+    "password": "WrongPassword!",
+    "expected": "The username and password could not be verified."
+  },
+  "TC-007": {
+    "username": "",
+    "password": "Password123",
+    "expected": "Please enter a username and password."
+  },
+  "TC-008": {
+    "username": "ValidUser",
+    "password": "",
+    "expected": "Please enter a username and password."
+  }
+}

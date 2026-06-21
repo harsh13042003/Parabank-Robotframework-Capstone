@@ -1,0 +1,11 @@
+{
+  "TC-036": {
+    "invalid_amount": "abc",
+    "error_msg_1": "Error!",
+    "error_msg_2": "An internal error has occurred and has been logged."
+  },
+  "TC-037": {
+    "amount": "100",
+    "success_msg": "Transfer not Complete!"
+  }
+}

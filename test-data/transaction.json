@@ -1,0 +1,6 @@
+{
+  "TC-020": { "amount": "100" },
+  "TC-021": { "labels": ["Transaction ID", "Date", "Description", "Type", "Amount"] },
+  "TC-022": { "expected_type": "Debit" },
+  "TC-023": { "expected_amount": "100.00" }
+}

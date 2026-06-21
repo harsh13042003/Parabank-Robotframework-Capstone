@@ -1,0 +1,12 @@
+{
+  "TC-031": {
+    "status_code": 200,
+    "expected_keys": ["balance", "type"]
+  },
+  "TC-032": {
+    "status_code": 200
+  },
+  "TC-033": {
+    "transfer_amount": "100"
+  }
+}

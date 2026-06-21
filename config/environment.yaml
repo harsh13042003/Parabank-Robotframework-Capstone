@@ -1,0 +1,4 @@
+base_url: "https://parabank.parasoft.com/parabank/index.htm"
+api_base_url: "https://parabank.parasoft.com/parabank/services/bank"
+valid_username: "john"
+valid_password: "demo"

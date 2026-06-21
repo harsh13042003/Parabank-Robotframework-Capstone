@@ -1,0 +1,38 @@
+{
+  "TC-001": {
+    "fname": "Harsh",
+    "lname": "Agarwal",
+    "street": "Jagatpura",
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "zip": "302017",
+    "phone": "9999999999",
+    "password": "Test@123",
+    "confirm": "Test@123",
+    "expected": "Your account was created successfully."
+  },
+  "TC-003": {
+    "fname": "Harsh",
+    "lname": "Agarwal",
+    "street": "Jagatpura",
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "zip": "302017",
+    "phone": "9999999999",
+    "password": "Test@123",
+    "confirm": "Wrong@111",
+    "expected": "Passwords did not match."
+  },
+  "TC-004": {
+    "fname": "Harsh",
+    "lname": "Agarwal",
+    "street": "Jagatpura",
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "zip": "302017",
+    "phone": "9999999999",
+    "password": "Test@123",
+    "confirm": "Test@123",
+    "expected": "This username already exists."
+  }
+}
