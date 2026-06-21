@@ -37,3 +37,8 @@ jobs:
             report.html
             log.html
             output.xml
+      - name: Install Chrome
+        uses: browser-actions/setup-chrome@v1
+
+      - name: Verify Chrome
+        run: google-chrome --version
